@@ -1,6 +1,6 @@
 {
   "name": "@txo-peer-dep/test-automation-jest",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Technology Studio - Test automation jest peer",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
