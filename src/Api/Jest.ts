@@ -52,5 +52,5 @@ export const seedEntities = async <ASSETS> (
 }
 
 configManager.update({
-  seedEntities,
+  seedEntities: () => seedEntities,
 })
